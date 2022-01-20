@@ -1,0 +1,4 @@
+start: pak planning bij standup check bij code expert voor gescatten tijd
+Start: geef het aan als je mertk dat je tijd aan het verspillen bent
+keep: concrete sprint planning te maken.
+stop: eigen werk in projecttijd 

@@ -1,0 +1,3 @@
+Explain why candidate needs to refactored 
+Opinion about it with arguments
+Before and after img refactoring

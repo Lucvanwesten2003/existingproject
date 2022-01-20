@@ -1,0 +1,21 @@
+Bug fix:
+-Info icoontjes verdwijnen van bedrijven
+-Bruggen locaties stonden verkeerd rond gent(muidespoorbrug)
+
+
+
+Nieuw:
+-Kunnen hoveren over bedrijven ipv klikken
+-Kunnen zoeken op bedrijven
+-Landcode voor telefoonnummer bij bruggen
+-Demensies bij ligplaatsen (lenget, breedte, diepte)
+-Zoekbalk zoals bij google eerst typen dan klikken welke categorie.
+-Info scherm aanpassen: Naam als eerste. Laatste AIS signal niet relevant.
+Velocity naar snelheid.
+-Schepen die aangemeerd zijn van icoontje veranderen.
+-Kunnen filteren op varend en niet varend.
+-Kunnen filteren op zeevaart en niet zeevaart.
+-Filters plaatsen op een duidelijkere plek
+
+
+

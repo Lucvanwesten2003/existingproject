@@ -1,0 +1,49 @@
+bedrijven lagen: hover over functie ipv op klikken, inzoomen
+geen info icoontjes meer. Bedrijven layer heeft zeker toegevoegde vragen maar soms
+willen ze op het bedrijf zoeken. locatie gebonden/bedrijfs gebonden.
+
+Bruggen layer: Doorvaarthoogte impliceert een beleidsmatige beperking, breedte fysieke beperking
+Aangeven welk waterpijl bij hoogte. Aangeven bij wie je terecht komt bij het telefoonnummer. 
+Landscode voor telefoon nummer erbij plaatsen. Extra zou nog planning kunnen zijn.
+Specifieker over bruggen bijv bruggen met 2 delen waardoor hoogtes/breedtes niet meer kloppen.
+
+Diepte layer:
+Diepte van het water niks zeggend omdat het realtime moet zijn anders te veel verandering
+met getijden
+
+Ligplaatsen: Grootte van ligplaatsen sommigen heel erg lang voor locatie aanduiding zoals 2310.
+Ligplaatsen nutteloos. Geen info over lengte/diepte. Ligplaatsen te lang voor locatie aanduiding.
+Bied informatie als je weet waar je naar toe moet. Zoeken werkt alleen met de cijfers niet met LP.
+Sommige ligplaatsen meer kade's. Zijkanaal E bijv wordt niet in de kaart aangegeven als je er op zoekt.
+Opdeling voor zoek icoontjes niet erg handig, 1 zoekbalk en dan specificieren waar je naar zoekt.
+Algemene zoek functie en dan specificieren waar je naar op zoekt bent. Uit zich zelf niet gevonden 
+de ligplaatsen zoek functie. Zoals google, zoek je afbeelding, foto, maps etc.
+
+Opensea maps:
+Bruggen info staat ook bij openseamaps op de bruggen(hoogte, breedte).
+
+muidespoorbrug staat verkeerd en nog 1 in gent.
+
+
+Schepen layer:
+Onderscheid maken in het info scherm de volgorde belangrijkste naam.
+Laatste ais signal niet relevant
+velocity term wordt niet gebruikt gebruik snelheid.
+Schepen die afgemeerd legen weergeven met een ruitje of filter dat je alleen vaarende schepen 
+laat zien of juist alleen aangemeerde schepen.
+Filters;
+Zeevaart niet zeevaart
+varend niet varend
+Filters niet op de juiste plek ze staan bij legenda
+Dus filters op een duidelijkere plek.
+
+Scenario voor testen:
+Een bepaalt schip is onderweg naar onze terminal met bepaalde afmetingen kan het schip daar 
+komen afmeren. Dan kan je zoeken naar de ligplaats en naar het schip. Missen we dan nog het bodempijl.
+Dan heb je nog doorvaart afmetingen van bruggen/sluizen bijv.
+
+
+
+
+
+

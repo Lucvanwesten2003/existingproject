@@ -1,0 +1,61 @@
+
+boodschap van dit portfolio
+schrijven voor: docenten.
+Opdrachtgever wil weten hoe betrouwbaar het is en klopt het.
+
+Inleiding:
+	Publiek mee neemt in een verhaal dat hun boeit.
+	Aanleiding: waarom dit portfolio/onderzoek/project
+		brancheontwikkeling
+		client->probleem->ongewenste situatie
+		introduceer klant/bedrijf
+	Doel: waartoe moet het project/portfolio/onderzoek leiden
+		gewenste toekomstige situatie
+		(bijdrage daaraan?)
+	Soort portfolio:
+		-informeren
+		-verklaren
+		-adivseren
+		-evalueren
+
+	Structuur van het portfolio
+		geen opsomming van de inhoudsopgave
+		meer een verhaal
+	
+
+Waarom testen?(kwaliteit betrouwbaarheid etc.)
+
+
+Resultaten:
+	Deelresultaat-> welke requirements
+	Deelresultaat-> welke bestaande methodes
+	Deelresultaat-> top 3 beste software
+	(Diagramen/figuren/tabelen als toevoeging op resultaten)
+
+
+
+Discussie: onverwachten resultaten
+
+Conclusie:
+	Is dit onderzoek een succes? of te wel ongewenste situatie-> gewenste situatie?
+	Niet verwijzen terug in tekst naar tabellen er opnieuw inzetten
+
+Aanbeveling
+
+Literatuur overzicht
+
+Bijlage
+
+
+
+
+
+(
+Methode
+1.
+2.
+3.
+4.
+=
+oplossing
+)

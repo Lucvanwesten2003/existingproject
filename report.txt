@@ -1,0 +1,12 @@
+introduction 
+assignment and software that is onderzocht dus jhotdraw 8
+finding implementation and structure section 2 indicates process section 3 does this
+section 4 does this.
+
+detection
+about the design pattern you found the file or classname with the pattern in it. detail about the
+design pattern so which files are involved. 
+
+pattern: diagram only show classname maybe 2/3 patterns
+
+operation: indicate a client so how it is used. hoe werkt zo'n pattern in de praktijk
